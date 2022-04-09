@@ -1,4 +1,4 @@
-<i><h1 align="center"> Castle-animate</h1></i>
+<i><h1 align="center"> Castle-animate ❤</h1></i>
 <i><p align="center">Landing page baseada no filme "O Castelo Animado", do Studio Ghibli.</p></i>
 
 <p align="center">
